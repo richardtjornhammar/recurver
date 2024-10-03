@@ -20,5 +20,7 @@ $ lein run
 
 [uncomplicate's numerical computation repos](https://github.com/uncomplicate)
 
+[data wrangling] (https://github.com/techascent/tech.ml.dataset)
 
+[bioviz blog](https://blog.klipse.tech/visualization/2021/02/16/graph-playground-cytoscape.html)
 
