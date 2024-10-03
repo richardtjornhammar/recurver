@@ -18,5 +18,7 @@ $ lein run
 [clojars](https://clojars.org/)
 [https://repo.clojars.org/](https://repo.clojars.org/)
 
+[uncomplicate's numerical computation repos](https://github.com/uncomplicate)
+
 
 
